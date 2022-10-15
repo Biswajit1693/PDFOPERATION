@@ -20,7 +20,7 @@ Python PDF library Operation
    1. Whenever importing pdf its might show error-"file or directory not found".In that case make sure that the pdf is defined in your python environment.
    Its directory should be in your python file else it throws error most of the time.
    
-   2.If copying the file path into the python code make sure to use "r" before the file path.It will convert the normal string into raw string
+   2. If copying the file path into the python code make sure to use "r" before the file path.It will convert the normal string into raw string
         
         Example-
          x='hello\nPython'
